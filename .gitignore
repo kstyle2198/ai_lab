@@ -8,5 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
-.00_data
 .env
+
+00_data
